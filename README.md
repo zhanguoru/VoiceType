@@ -107,3 +107,9 @@ Use at your own risk.
 ## License
 
 MIT License
+
+## About Source Code
+
+This project currently provides a prebuilt Windows executable only.
+The application runs fully offline and does not collect or transmit any audio or text data.
+Source code may be released in a future version depending on feedback.
