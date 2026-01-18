@@ -1,4 +1,4 @@
-# Whisper Hotkey (Windows)
+# VoiceType (Windows)
 
 A lightweight Windows hotkey tool for voice-to-text powered by **faster-whisper**.
 
